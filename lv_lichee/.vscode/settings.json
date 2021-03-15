@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "fbdev.h": "c",
+        "lvgl.h": "c",
+        "gc9a01.h": "c",
+        "uart.h": "c",
+        "lichee.h": "c"
+    }
+}
