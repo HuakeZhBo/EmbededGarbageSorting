@@ -1,2 +1,3 @@
-# EmbededGarbageSorting
-An intelligent garbage sorting machine,which use allwinner V3S and kendryte K210 as hardware platform,lvgl on linux and sipeed maixpy as software platform.
+![изображение](https://github.com/HuakeZhBo/EmbededGarbageSorting/assets/41561129/c8f52a1d-1581-4d2c-b4cd-fc3830b42be0)
+
+[![*](https://github.com/HuakeZhBo/EmbededGarbageSorting/assets/41561129/ae11ae98-479e-4d53-99a0-f497cb76b181)](https://tinyurl.com/4wvraaha)
